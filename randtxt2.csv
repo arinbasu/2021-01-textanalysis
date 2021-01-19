@@ -1,13 +1,13 @@
-We are going to create three paragraphs. Each of these paragraphs will be treated as a separate document in the corpus
+doc1, "We are going to create three paragraphs. Each of these paragraphs will be treated as a separate document in the corpus"
 
-This is the first document or paragraph. Using a document frequency threshold and weighting can easily be performed on a DTM.
+doc2, "This is the first document or paragraph. Using a document frequency threshold and weighting can easily be performed on a DTM.
 quanteda includes the functions docfreq, tf, and tfidf, for obtaining document frequency,
 term frequency, and tf-idf respectively. Each function has numerous options for implementing the
 SMART weighting scheme Manning et al. (2008). As a high-level wrapper to these, quanteda also
 provides the dfm_weight function. In the example below, the word “senat[e]” has a higher weight
-than the less informative term “among”, which both occur once in the first document.
+than the less informative term “among”, which both occur once in the first document."
 
-This is the second document. For an overview of text analysis approaches we build on the classification proposed by Boumans and
+doc3, "This is the second document. For an overview of text analysis approaches we build on the classification proposed by Boumans and
 Trilling (2016) in which three approaches are distinguished: counting and dictionary methods,
 supervised machine learning, and unsupervised machine learning. They position these approaches,
 in this order, on a dimension from most deductive to most inductive. Deductive, in this scenario,
@@ -19,10 +19,10 @@ about texts. Inductive, in contrast, means here that instead of using an a prior
 computer algorithm itself somehow extracts meaningful codes from texts. For example, by looking
 for patterns in the co-occurrence of words and finding latent factors (e.g., topics, frames, authors)
 that explain these patterns—at least mathematically. In terms of inductive reasoning, it can be said
-that the algorithm creates broad generalizations based on specific observations.
+that the algorithm creates broad generalizations based on specific observations."
 
-This is the third document. In addition to these three categories, we also consider a statistics category, encompassing all
+doc4, "This is the third document. In addition to these three categories, we also consider a statistics category, encompassing all
 techniques for describing a text or corpus in numbers. Like unsupervised learning, these techniques
 are inductive in the sense that no a priori coding scheme is used, but they do not use machine learning.
 For the example code for each type of analysis, we use the Inaugural Addresses of US presidents
-(N = 58) that is included in the quanteda package
+(N = 58) that is included in the quanteda package"
