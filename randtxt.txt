@@ -1,0 +1,10 @@
+The DTM can also be created from a quanteda corpus object, which stores text and associated
+meta-data, including document-level variables. When a corpus is tokenized or converted into a
+DTM, these document-level variables are saved in the object, which can be very useful later when the
+documents in the DTM need to be used as covariates in supervised machine learning. The stored
+document variables also make it possible to aggregate quanteda objects by groups, which is
+extremely useful when texts are stored in small units—like Tweets—but need to be aggregated in a
+DTM by grouping variables such as users, dates, or combinations of these.
+Because quanteda is compatible with the readtext package, creating a corpus from texts on disk
+takes only a single additional step. In the following example we create a DTM from the readtext data
+as imported above
