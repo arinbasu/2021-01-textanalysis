@@ -1,5 +1,5 @@
 ## Using computational text analysis to filter first pass title and abstracts in systematic reviews
-
+(Draft)
 ## Abstract
 
 Systematic reviews and meta-analyses are time consuming but information intensive activities at evidence appraisal. At the heart of constructing systematic reviews is the process of information retrieval, where a body of evidence in the form of primary studies are first identified using information retrieval tools and search of literature databases. Following this first pass, researchers spend time in sifting through possibly a large body of titles and abstracts with a list of selction and rejection criteria to identify which studies should be retained for full text retrieval and final analysis. This process is erro-prone and time consuming.
@@ -74,8 +74,9 @@ As an illustration, only a few lines of code would allow an analyst to identify 
 Use of computational text analysis can be extended to abstracts and full texts of the article, beyond culling large reference lists. We will extend the scope of this work in future by using text collocations, and sentiment analyses and use of dictionaries to capture themes in complex documents following an initial pass. This exercise was meant to be a first pass to demonstrate the capability of a computational text analysis algorithm to simplify and speed up the process of systematic review and information retrieval. 
 
 ## References
+to be added
 
-
+## Code blocks
 
 ```R
 library(quanteda)
