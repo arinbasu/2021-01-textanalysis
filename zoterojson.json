@@ -1,0 +1,642 @@
+[
+	{
+		"id": "voukelatos_randomized_2007",
+		"type": "article-journal",
+		"container-title": "Journal of the American Geriatrics Society",
+		"issue": "8",
+		"note": "publisher: Wiley Online Library",
+		"page": "1185–1191",
+		"source": "Google Scholar",
+		"title": "A randomized, controlled trial of tai chi for the prevention of falls: the Central Sydney tai chi trial",
+		"title-short": "A randomized, controlled trial of tai chi for the prevention of falls",
+		"volume": "55",
+		"author": [
+			{
+				"family": "Voukelatos",
+				"given": "Alexander"
+			},
+			{
+				"family": "Cumming",
+				"given": "Robert G."
+			},
+			{
+				"family": "Lord",
+				"given": "Stephen R."
+			},
+			{
+				"family": "Rissel",
+				"given": "Chris"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "keall_home_2014",
+		"type": "article-journal",
+		"source": "Google Scholar",
+		"title": "Home modifications to reduce injuries from falls in the Home Injury Prevention Intervention (HIPI) study: a cluster-randomised controlled trial",
+		"title-short": "Home modifications to reduce injuries from falls in the Home Injury Prevention Intervention (HIPI) study",
+		"author": [
+			{
+				"family": "Keall",
+				"given": "Michael D."
+			},
+			{
+				"family": "Pierse",
+				"given": "Nevil"
+			},
+			{
+				"family": "Howden-Chapman",
+				"given": "Philippa"
+			},
+			{
+				"family": "Cunningham",
+				"given": "Chris"
+			},
+			{
+				"family": "Cunningham",
+				"given": "Malcolm"
+			},
+			{
+				"family": "Guria",
+				"given": "Jagadish"
+			},
+			{
+				"family": "Baker",
+				"given": "Michael G."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "keall_formulating_2013",
+		"type": "article-journal",
+		"container-title": "Accident Analysis and Prevention",
+		"page": "124–130",
+		"source": "Google Scholar",
+		"title": "Formulating a programme of repairs to structural home injury hazards in New Zealand",
+		"volume": "57",
+		"author": [
+			{
+				"family": "Keall",
+				"given": "Michael D."
+			},
+			{
+				"family": "Howden-Chapman",
+				"given": "Philippa"
+			},
+			{
+				"family": "Baker",
+				"given": "Michael G."
+			},
+			{
+				"family": "Kamalesh",
+				"given": "Venugopal"
+			},
+			{
+				"family": "Cunningham",
+				"given": "Malcolm"
+			},
+			{
+				"family": "Cunningham",
+				"given": "Chris"
+			},
+			{
+				"family": "Guria",
+				"given": "Jagadish"
+			},
+			{
+				"family": "Draper",
+				"given": "Robert"
+			},
+			{
+				"family": "Skelton",
+				"given": "Pounamu"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "barker_feasibility_2016",
+		"type": "article-journal",
+		"container-title": "Clinical rehabilitation",
+		"issue": "10",
+		"note": "publisher: SAGE Publications Sage UK: London, England",
+		"page": "984–996",
+		"source": "Google Scholar",
+		"title": "Feasibility of Pilates exercise to decrease falls risk: a pilot randomized controlled trial in community-dwelling older people",
+		"title-short": "Feasibility of Pilates exercise to decrease falls risk",
+		"volume": "30",
+		"author": [
+			{
+				"family": "Barker",
+				"given": "Anna L."
+			},
+			{
+				"family": "Talevski",
+				"given": "Jason"
+			},
+			{
+				"family": "Bohensky",
+				"given": "Megan A."
+			},
+			{
+				"family": "Brand",
+				"given": "Caroline A."
+			},
+			{
+				"family": "Cameron",
+				"given": "Peter A."
+			},
+			{
+				"family": "Morello",
+				"given": "Renata T."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "lyons_modification_2003",
+		"type": "article-journal",
+		"container-title": "Cochrane database of systematic reviews",
+		"issue": "4",
+		"note": "publisher: John Wiley & Sons, Ltd",
+		"source": "Google Scholar",
+		"title": "Modification of the home environment for the reduction of injuries",
+		"author": [
+			{
+				"family": "Lyons",
+				"given": "Ronan A."
+			},
+			{
+				"family": "Sander",
+				"given": "Lesley Victoria"
+			},
+			{
+				"family": "Weightman",
+				"given": "Alison"
+			},
+			{
+				"family": "Patterson",
+				"given": "Joanne"
+			},
+			{
+				"family": "Jones",
+				"given": "Sarah J."
+			},
+			{
+				"family": "Lannon",
+				"given": "Simon"
+			},
+			{
+				"family": "Rolfe",
+				"given": "Ben"
+			},
+			{
+				"family": "Kemp",
+				"given": "Alison"
+			},
+			{
+				"family": "Johansen",
+				"given": "Antony"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "lyons_modification_2006",
+		"type": "article-journal",
+		"container-title": "status and date: Edited (no change to conclusions), published in",
+		"issue": "1",
+		"source": "Google Scholar",
+		"title": "Modification of the home environment for the reduction of injuries",
+		"author": [
+			{
+				"family": "Lyons",
+				"given": "R. A."
+			},
+			{
+				"family": "John",
+				"given": "A."
+			},
+			{
+				"family": "Brophy",
+				"given": "S."
+			},
+			{
+				"family": "Jones",
+				"given": "S. J."
+			},
+			{
+				"family": "Johansen",
+				"given": "A."
+			},
+			{
+				"family": "Kemp",
+				"given": "A."
+			},
+			{
+				"family": "Lannon",
+				"given": "S."
+			},
+			{
+				"family": "Patterson",
+				"given": "J."
+			},
+			{
+				"family": "Rolfe",
+				"given": "B."
+			},
+			{
+				"family": "Sander",
+				"given": "L. V."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "singh_participating_2012",
+		"type": "article-journal",
+		"container-title": "Maturitas",
+		"page": "239–243",
+		"source": "Google Scholar",
+		"title": "Participating in a virtual reality balance exercise program can reduce risk and fear of falls",
+		"volume": "73",
+		"author": [
+			{
+				"family": "Singh",
+				"given": "Devinder KA"
+			},
+			{
+				"family": "Rajaratnam",
+				"given": "Bala S."
+			},
+			{
+				"family": "Palaniswamy",
+				"given": "Vijayakumar"
+			},
+			{
+				"family": "Pearson",
+				"given": "Hannah"
+			},
+			{
+				"family": "Raman",
+				"given": "Vimal P."
+			},
+			{
+				"family": "Bong",
+				"given": "Pei Sien"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "marigold_strategies_2002",
+		"type": "article-journal",
+		"abstract": "Falls due to slips are prevalent in everyday life. The purpose of this study was to determine the reactive recovery responses used to maintain dynamic stability during an unexpected slip, establish the time course of response adaptation to repeated slip perturbations, and distinguish the proactive strategies for negotiating a slippery surface. Twelve young adults participated in the study in which a slip was generated following foot contact on a set of steel free-wheeling rollers. Surface electromyographic (EMG) data were collected from rectus femoris, biceps femoris, tibialis anterior, and the medial head of gastrocnemius on the perturbed limb. Whole body kinematics were recorded using an optical imaging system: from this the center of mass, foot angle, and medial-lateral stability margins were determined. In addition, braking/loading and accelerating/unloading impulses while in contact with the rollers and the rate of loading the rollers were determined from ground reaction forces. Results demonstrate that the reactive recovery response to the first slip consisted of a rapid onset of a flexor synergy (146–199 ms), a large arm elevation strategy, and a modified swing limb trajectory. With repeated exposure to the slip perturbation, the CNS rapidly adapts within one slip trial through global changes. These changes include the attenuation of muscle response magnitude, reduced braking impulse, landing more flat-footed, and elevating the center of mass. Individuals implement a “surfing strategy” while on the rollers when knowledge of the surface condition was available before hand. Furthermore, knowledge of a slip results in a reduced braking impulse and rate of loading, a shift in medial-lateral center of mass closer to the support limb at foot contact on the rollers and a more flat foot landing. In conclusion, prior experience with the perturbations allows subsequent modification and knowledge of the surface condition results in proactive adjustments to safely traverse the slippery surface.",
+		"container-title": "Journal of Neurophysiology",
+		"DOI": "10.1152/jn.00691.2001",
+		"ISSN": "0022-3077, 1522-1598",
+		"issue": "1",
+		"journalAbbreviation": "Journal of Neurophysiology",
+		"language": "en",
+		"page": "339-353",
+		"source": "DOI.org (Crossref)",
+		"title": "Strategies for Dynamic Stability During Locomotion on a Slippery Surface: Effects of Prior Experience and Knowledge",
+		"title-short": "Strategies for Dynamic Stability During Locomotion on a Slippery Surface",
+		"URL": "https://www.physiology.org/doi/10.1152/jn.00691.2001",
+		"volume": "88",
+		"author": [
+			{
+				"family": "Marigold",
+				"given": "Daniel S."
+			},
+			{
+				"family": "Patla",
+				"given": "Aftab E."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					6,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2002",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "wong-yu_task-_2015",
+		"type": "article-journal",
+		"abstract": "Objectives\nTo investigate the short- and long-term effects of a task- and context-specific balance training program on dynamic balance and functional performance, and to explore the effects on preventing total and injurious falls in parkinsonian nonfallers.\nDesign\nA randomized controlled trial with group allocation single-blinded to the assessor.\nSetting\nCommunity centers, malls, and outdoor parks.\nParticipants\nNonfallers with Parkinson disease (PD) (N=70; mean age ± SD, 61.2±8.8y) randomly assigned to either a balance (BAL) group (n=32) or a control (CON) group (n=38).\nInterventions\nThe BAL group received 4 weeks of indoor and 4 weeks of outdoor balance training (with a 2-h session per week). The CON group received 8 weeks of upper limb training at the same dosage. Both groups were instructed to perform 3 hours of home exercise weekly posttraining.\nMain Outcome Measures\n(1) Dynamic balance performance: Mini-Balance Evaluation Systems Test (Mini-BESTest); (2) Functional performance: functional reach (FR), 5 times sit-to-stand (FTSTS), 1-leg-stance (OLS), Timed Up and Go (TUG), and dual-task TUG tests; (3) Fall-related outcomes: ratios of total nonfallers to fallers and noninjurious fallers to injurious fallers, total and injurious fall rates, times to first falls and injurious falls.\nResults\nSixty-eight participants completed training. A total of 7 patients (10%) withdrew before the 6-month follow-up, but not because of any adverse effects. At immediate and 6 months posttraining, the BAL group showed significantly greater improvements (from baseline) than the CON group in Mini-BESTest total scores, FR distances, and OLS times, together with greater time reductions in FTSTS, TUG, and dual-task TUG tests (all P<.05). The number of injurious fallers was significantly lower in the BAL group at 6-month follow-up.\nConclusions\nThis task- and context-specific balance training program improved the dynamic balance and fall-prone functional performance of PD nonfallers for up to 6 months after training. The BAL group showed a reduction in injurious fallers.",
+		"container-title": "Archives of Physical Medicine and Rehabilitation",
+		"DOI": "10.1016/j.apmr.2015.08.409",
+		"ISSN": "0003-9993",
+		"issue": "12",
+		"journalAbbreviation": "Archives of Physical Medicine and Rehabilitation",
+		"language": "en",
+		"page": "2103-2111",
+		"source": "ScienceDirect",
+		"title": "Task- and Context-Specific Balance Training Program Enhances Dynamic Balance and Functional Performance in Parkinsonian Nonfallers: A Randomized Controlled Trial With Six-Month Follow-Up",
+		"title-short": "Task- and Context-Specific Balance Training Program Enhances Dynamic Balance and Functional Performance in Parkinsonian Nonfallers",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0003999315010758",
+		"volume": "96",
+		"author": [
+			{
+				"family": "Wong-Yu",
+				"given": "Irene S."
+			},
+			{
+				"family": "Mak",
+				"given": "Margaret K."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					6,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "williams_exercise_2018",
+		"type": "article-journal",
+		"container-title": "Cochrane Database of Systematic Reviews",
+		"DOI": "10.1002/14651858.CD011687.pub2",
+		"ISSN": "1465-1858",
+		"issue": "10",
+		"language": "en",
+		"note": "publisher: John Wiley & Sons, Ltd",
+		"source": "www.cochranelibrary.com",
+		"title": "Exercise for reducing falls in people living with and beyond cancer",
+		"URL": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011687.pub2/full",
+		"author": [
+			{
+				"family": "Williams",
+				"given": "Andrew D."
+			},
+			{
+				"family": "Bird",
+				"given": "Marie-Louise"
+			},
+			{
+				"family": "Hardcastle",
+				"given": "Sibella GK"
+			},
+			{
+				"family": "Kirschbaum",
+				"given": "Mark"
+			},
+			{
+				"family": "Ogden",
+				"given": "Kathryn J."
+			},
+			{
+				"family": "Walters",
+				"given": "Julia AE"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					6,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/19332/items/7FV9HHL8",
+		"type": "article",
+		"title": "williams_et_al_2018_exercise_for_reducing_falls_in_people_living_with_and_beyond_cancer.pdf",
+		"URL": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011687.pub2/pdf/CDSR/CD011687/CD011687.pdf",
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					6,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/19332/items/6W2GVW78",
+		"type": "article",
+		"title": "Snapshot",
+		"URL": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD011687.pub2/full",
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					6,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "sweeney_evaluating_nodate",
+		"type": "article-journal",
+		"note": "publisher: Citeseer",
+		"source": "Google Scholar",
+		"title": "Evaluating the Effectiveness of a Multimedia Program on Home Safety",
+		"author": [
+			{
+				"family": "Sweeney",
+				"given": "Mary Anne"
+			},
+			{
+				"family": "Chiriboga",
+				"given": "David A."
+			}
+		]
+	},
+	{
+		"id": "sosnoff_fall_2015",
+		"type": "article-journal",
+		"container-title": "Clinical rehabilitation",
+		"issue": "10",
+		"note": "publisher: SAGE Publications Sage UK: London, England",
+		"page": "952–960",
+		"source": "Google Scholar",
+		"title": "Fall risk and incidence reduction in high risk individuals with multiple sclerosis: a pilot randomized control trial",
+		"title-short": "Fall risk and incidence reduction in high risk individuals with multiple sclerosis",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Sosnoff",
+				"given": "Jacob J."
+			},
+			{
+				"family": "Moon",
+				"given": "Yaejin"
+			},
+			{
+				"family": "Wajda",
+				"given": "Douglas A."
+			},
+			{
+				"family": "Finlayson",
+				"given": "Marcia L."
+			},
+			{
+				"family": "McAuley",
+				"given": "Edward"
+			},
+			{
+				"family": "Peterson",
+				"given": "Elizabeth W."
+			},
+			{
+				"family": "Morrison",
+				"given": "Steve"
+			},
+			{
+				"family": "Motl",
+				"given": "Robert W."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "gielen_home_2012",
+		"type": "article-journal",
+		"container-title": "Pediatrics",
+		"issue": "6",
+		"page": "1053–1059",
+		"source": "Google Scholar",
+		"title": "Home Safety and Low-Income Urban Housing Quality",
+		"volume": "130",
+		"author": [
+			{
+				"family": "Gielen",
+				"given": "Andrea C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "grabiner_task-specific_2012",
+		"type": "article-journal",
+		"container-title": "Medicine and science in sports and exercise",
+		"issue": "12",
+		"page": "2410–2414",
+		"source": "Google Scholar",
+		"title": "Task-specific training reduces trip-related fall risk in women.",
+		"volume": "44",
+		"author": [
+			{
+				"family": "Grabiner",
+				"given": "Mark D."
+			},
+			{
+				"family": "Bareither",
+				"given": "M. Lou"
+			},
+			{
+				"family": "Gatts",
+				"given": "Strawberry"
+			},
+			{
+				"family": "Marone",
+				"given": "Jane"
+			},
+			{
+				"family": "Troy",
+				"given": "Karen L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	}
+]
