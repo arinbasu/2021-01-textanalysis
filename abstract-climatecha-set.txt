@@ -1,0 +1,480 @@
+1. Curr Top Microbiol Immunol. 2015;387:65-97. doi: 10.1007/978-3-662-45059-8_5.
+
+Leptospirosis in humans.
+
+Haake DA(1), Levett PN.
+
+Author information:
+(1)Division of Infectious Diseases, VA Greater Los Angeles Healthcare System, 
+Los Angeles, CA, USA, dhaake@ucla.edu.
+
+Leptospirosis is a widespread and potentially fatal zoonosis that is endemic in 
+many tropical regions and causes large epidemics after heavy rainfall and 
+flooding. Infection results from direct or indirect exposure to infected 
+reservoir host animals that carry the pathogen in their renal tubules and shed 
+pathogenic leptospires in their urine. Although many wild and domestic animals 
+can serve as reservoir hosts, the brown rat (Rattus norvegicus) is the most 
+important source of human infections. Individuals living in urban slum 
+environments characterized by inadequate sanitation and poor housing are at high 
+risk of rat exposure and leptospirosis. The global burden of leptospirosis is 
+expected to rise with demographic shifts that favor increases in the number of 
+urban poor in tropical regions subject to worsening storms and urban flooding 
+due to climate change. Data emerging from prospective surveillance studies 
+suggest that most human leptospiral infections in endemic areas are mild or 
+asymptomatic. Development of more severe outcomes likely depends on three 
+factors: epidemiological conditions, host susceptibility, and pathogen virulence 
+(Fig. 1). Mortality increases with age, particularly in patients older than 60 
+years of age. High levels of bacteremia are associated with poor clinical 
+outcomes and, based on animal model and in vitro studies, are related in part to 
+poor recognition of leptospiral LPS by human TLR4. Patients with severe 
+leptospirosis experience a cytokine storm characterized by high levels of IL-6, 
+TNF-alpha, and IL-10. Patients with the HLA DQ6 allele are at higher risk of 
+disease, suggesting a role for lymphocyte stimulation by a leptospiral 
+superantigen. Leptospirosis typically presents as a nonspecific, acute febrile 
+illness characterized by fever, myalgia, and headache and may be confused with 
+other entities such as influenza and dengue fever. Newer diagnostic methods 
+facilitate early diagnosis and antibiotic treatment. Patients progressing to 
+multisystem organ failure have widespread hematogenous dissemination of 
+pathogens. Nonoliguric (high output) renal dysfunction should be supported with 
+fluids and electrolytes. When oliguric renal failure occurs, prompt initiation 
+of dialysis can be life saving. Elevated bilirubin levels are due to 
+hepatocellular damage and disruption of intercellular junctions between 
+hepatocytes, resulting in leaking of bilirubin out of bile caniliculi. 
+Hemorrhagic complications are common and are associated with coagulation 
+abnormalities. Severe pulmonary hemorrhage syndrome due to extensive alveolar 
+hemorrhage has a fatality rate of >50 %. Readers are referred to earlier, 
+excellent summaries related to this subject (Adler and de la Peña-Moctezuma 
+2010; Bharti et al. 2003; Hartskeerl et al. 2011; Ko et al. 2009; Levett 2001; 
+McBride et al. 2005).
+
+DOI: 10.1007/978-3-662-45059-8_5
+PMCID: PMC4442676
+PMID: 25388133 [Indexed for MEDLINE]
+
+
+2. FEMS Microbiol Lett. 2018 Feb 1;365(2):fnx244. doi: 10.1093/femsle/fnx244.
+
+Vector-borne diseases and climate change: a European perspective.
+
+Semenza JC(1), Suk JE(1).
+
+Author information:
+(1)European Centre for Disease Prevention and Control, Tomtebodavägen 11A, 
+Stockholm, S-171 83, Sweden.
+
+Climate change has already impacted the transmission of a wide range of 
+vector-borne diseases in Europe, and it will continue to do so in the coming 
+decades. Climate change has been implicated in the observed shift of ticks to 
+elevated altitudes and latitudes, notably including the Ixodes ricinus tick 
+species that is a vector for Lyme borreliosis and tick-borne encephalitis. 
+Climate change is also thought to have been a factor in the expansion of other 
+important disease vectors in Europe: Aedes albopictus (the Asian tiger 
+mosquito), which transmits diseases such as Zika, dengue and chikungunya, and 
+Phlebotomus sandfly species, which transmits diseases including Leishmaniasis. 
+In addition, highly elevated temperatures in the summer of 2010 have been 
+associated with an epidemic of West Nile Fever in Southeast Europe and 
+subsequent outbreaks have been linked to summer temperature anomalies. Future 
+climate-sensitive health impacts are challenging to project quantitatively, in 
+part due to the intricate interplay between non-climatic and climatic drivers, 
+weather-sensitive pathogens and climate-change adaptation. Moreover, 
+globalisation and international air travel contribute to pathogen and vector 
+dispersion internationally. Nevertheless, monitoring forecasts of meteorological 
+conditions can help detect epidemic precursors of vector-borne disease outbreaks 
+and serve as early warning systems for risk reduction.
+
+© FEMS 2017.
+
+DOI: 10.1093/femsle/fnx244
+PMCID: PMC5812531
+PMID: 29149298 [Indexed for MEDLINE]
+
+
+3. Int J Environ Res Public Health. 2019 Dec 14;16(24):5114. doi: 
+10.3390/ijerph16245114.
+
+Climate Change, Health and Mosquito-Borne Diseases: Trends and Implications to 
+the Pacific Region.
+
+Filho WL(1)(2), Scheday S(1), Boenecke J(1), Gogoi A(3), Maharaj A(4), Korovou 
+S(3).
+
+Author information:
+(1)Research and Transfer Centre Sustainable Development and Climate Change 
+Management, Hamburg University of Applied Sciences, Faculty of Life Sciences, 
+20, 21033 Hamburg, Germany.
+(2)Department of Natural Sciences, Manchester Metropolitan University, Chester 
+Street, Manchester M1 5GD, UK.
+(3)Umanand Prasad School of Medicine and Health Sciences, The University of 
+Fiji, Saweni, Lautoka 0700, Fiji.
+(4)School of Science and Technology, The University of Fiji, Saweni, Lautoka 
+0700, Fiji.
+
+Climate change is known to affect Pacific Island nations in a variety of ways. 
+One of them is by increasing the vulnerability of human health induced by 
+various climate change impacts, which pose an additional burden to the already 
+distressed health systems in the region. This paper explores the associations 
+between climate change and human health on the one hand, and outlines some of 
+the health care challenges posed by a changing climate on the other. In 
+particular, it describes the links between climate variations and the emergence 
+of climate-sensitive infectious diseases, such as the mosquito-borne diseases 
+dengue, chikungunya, and Zika. The paper also presents a summary of the key 
+findings of the research initiatives Climate Change and Prevalence Study of ZIKA 
+Virus Diseases in Fiji and the findings from the World Mosquito Program as two 
+examples of public health action in the Pacific region.
+
+DOI: 10.3390/ijerph16245114
+PMCID: PMC6950258
+PMID: 31847373 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+4. Adv Exp Med Biol. 2018;1062:1-10. doi: 10.1007/978-981-10-8727-1_1.
+
+Arboviruses: A Family on the Move.
+
+Young PR(1).
+
+Author information:
+(1)Australian Infectious Diseases Research Centre, School of Chemistry and 
+Molecular Biosciences, The University of Queensland, Brisbane, Australia. 
+p.young@uq.edu.au.
+
+Arboviruses are a diverse group of vector-borne viruses, many of whose members 
+are the cause of significant human morbidity and mortality. Over the last 
+30 years, the emergence and/or resurgence of arboviruses have posed a 
+considerable global health threat. The ongoing geographical expansion of the 
+dengue viruses (DENV), along with the explosive outbreaks of West Nile virus 
+(WNV), Chikungunya virus (CHIKV) and more recently, Zika virus (ZIKV) have all 
+served as reminders that new epidemics may emerge at any time from this 
+diversity. A clearer understanding of what mechanisms drive these dramatic 
+changes in vector-host transmission cycles that result in the human population 
+becoming significantly more exposed, will help to prepare us for the next 
+emerging epidemic/pandemic. This Chapter seeks to provide a brief overview of 
+the arboviruses, their mode of transmission and some of the known factors that 
+drive their expansion.
+
+DOI: 10.1007/978-981-10-8727-1_1
+PMID: 29845521 [Indexed for MEDLINE]
+
+
+5. Can Commun Dis Rep. 2019 Apr 4;45(4):76-80. doi: 10.14745/ccdr.v45i04a01. 
+eCollection 2019 Apr 4.
+
+Climate change and infectious diseases: What can we expect?
+
+Ogden NH(1)(2), Gachon P(3).
+
+Author information:
+(1)Public Health Risk Sciences Division, National Microbiology Laboratory, 
+Public Health Agency of Canada, St. Hyacinthe, QC.
+(2)Public Health Risk Sciences Division, National Microbiology Laboratory, 
+Public Health Agency of Canada, Guelph, ON.
+(3)Étude et la Simulation du Climat à l'Échelle Régionale (ESCER), Université du 
+Québec à Montréal, Montréal, QC.
+
+Global climate change, driven by anthropogenic greenhouse gas emissions, is 
+being particularly felt in Canada, with warming generally greater than in the 
+rest of the world. Continued warming will be accompanied by changes in 
+precipitation, which will vary across the country and seasons, and by increasing 
+climate variability and extreme weather events. Climate change will likely drive 
+the emergence of infectious diseases in Canada by northward spread from the 
+United States and introduction from elsewhere in the world via air and sea 
+transport. Diseases endemic to Canada are also likely to re-emerge. This special 
+issue describes key infectious disease risks associated with climate change. 
+These include emergence of tick-borne diseases in addition to Lyme disease, the 
+possible introduction of exotic mosquito-borne diseases such as malaria and 
+dengue, more epidemics of Canada-endemic vector-borne diseases such as West Nile 
+virus, and increased incidence of foodborne illnesses. Risk is likely to be 
+compounded by an aging population affected by chronic diseases, which results in 
+greater sensitivity to infectious diseases. Identifying emerging disease risks 
+is essential to assess our vulnerability, and a starting point to identify where 
+public health effort is required to reduce the vulnerability and exposure of the 
+Canadian population.
+
+DOI: 10.14745/ccdr.v45i04a01
+PMCID: PMC6587697
+PMID: 31285696
+
+Conflict of interest statement: Conflict of interest: None.
+
+
+6. Nat Microbiol. 2019 Sep;4(9):1508-1515. doi: 10.1038/s41564-019-0476-8. Epub 
+2019 Jun 10.
+
+The current and future global distribution and population at risk of dengue.
+
+Messina JP(1)(2), Brady OJ(3)(4), Golding N(5), Kraemer MUG(6)(7)(8), Wint 
+GRW(9), Ray SE(10), Pigott DM(10), Shearer FM(11), Johnson K(10), Earl L(10), 
+Marczak LB(10), Shirude S(10), Davis Weaver N(10), Gilbert M(12), Velayudhan 
+R(13), Jones P(14), Jaenisch T(15), Scott TW(16), Reiner RC Jr(10), Hay SI(17).
+
+Author information:
+(1)School of Geography and the Environment, University of Oxford, Oxford, UK. 
+jane.messina@ouce.ox.ac.uk.
+(2)School of Interdisciplinary Area Studies, University of Oxford, Oxford, UK. 
+jane.messina@ouce.ox.ac.uk.
+(3)Centre for the Mathematical Modelling of Infectious Diseases, London School 
+of Hygiene & Tropical Medicine, London, UK.
+(4)Department of Infectious Disease Epidemiology, London School of Hygiene & 
+Tropical Medicine, London, UK.
+(5)School of BioSciences, University of Melbourne, Parkville, VIC, Australia.
+(6)Harvard Medical School, Harvard University, Boston, MA, USA.
+(7)Boston Children's Hospital, Boston, MA, USA.
+(8)Department of Zoology, University of Oxford, Oxford, UK.
+(9)Environmental Research Group Oxford, c/o Department of Zoology, University of 
+Oxford, Oxford, UK.
+(10)Institute for Health Metrics and Evaluation, University of Washington, 
+Seattle, WA, USA.
+(11)Big Data Institute, Li Ka Shing Centre for Health Information and Discovery, 
+University of Oxford, Oxford, UK.
+(12)Université Libre de Bruxelles, Brussels, Belgium.
+(13)World Health Organization, Geneva, Switzerland.
+(14)Waen Associates Ltd, Y Waen, Islaw'r Dref, Dolgellau, Gwynedd, UK.
+(15)Department of Infectious Diseases, Section Clinical Tropical Medicine, 
+Heidelberg University Hospital, Heidelberg, Germany.
+(16)Department of Entomology and Nematology, University of California, Davis, 
+USA.
+(17)Institute for Health Metrics and Evaluation, University of Washington, 
+Seattle, WA, USA. sihay@uw.edu.
+
+Dengue is a mosquito-borne viral infection that has spread throughout the 
+tropical world over the past 60 years and now affects over half the world's 
+population. The geographical range of dengue is expected to further expand due 
+to ongoing global phenomena including climate change and urbanization. We 
+applied statistical mapping techniques to the most extensive database of case 
+locations to date to predict global environmental suitability for the virus as 
+of 2015. We then made use of climate, population and socioeconomic projections 
+for the years 2020, 2050 and 2080 to project future changes in virus suitability 
+and human population at risk. This study is the first to consider the spread of 
+Aedes mosquito vectors to project dengue suitability. Our projections provide a 
+key missing piece of evidence for the changing global threat of vector-borne 
+disease and will help decision-makers worldwide to better prepare for and 
+respond to future changes in dengue risk.
+
+DOI: 10.1038/s41564-019-0476-8
+PMCID: PMC6784886
+PMID: 31182801 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+7. Infect Dis Poverty. 2019 Jun 13;8(1):51. doi: 10.1186/s40249-019-0565-1.
+
+Impact of past and on-going changes on climate and weather on vector-borne 
+diseases transmission: a look at the evidence.
+
+Fouque F(1), Reeder JC(2).
+
+Author information:
+(1)UNICEF/UNDP/ World Bank/WHO Special Programme for Research and Training in 
+Tropical Diseases (TDR), 20 Avenue Appia, 1211, Geneva 27, Switzerland. 
+fouquef@who.int.
+(2)UNICEF/UNDP/ World Bank/WHO Special Programme for Research and Training in 
+Tropical Diseases (TDR), 20 Avenue Appia, 1211, Geneva 27, Switzerland.
+
+BACKGROUND: The climate variables that directly influence vector-borne diseases' 
+ecosystems are mainly temperature and rainfall. This is not only because the 
+vectors bionomics are strongly dependent upon these variables, but also because 
+most of the elements of the systems are impacted, such as the host behavior and 
+development and the pathogen amplification. The impact of the climate changes on 
+the transmission patterns of these diseases is not easily understood, since many 
+confounding factors are acting together. Consequently, knowledge of these 
+impacts is often based on hypothesis derived from mathematical models. 
+Nevertheless, some direct evidences can be found for several vector-borne 
+diseases.
+MAIN BODY: Evidences of the impact of climate change are available for malaria, 
+arbovirus diseases such as dengue, and many other parasitic and viral diseases 
+such as Rift Valley Fever, Japanese encephalitis, human African trypanosomiasis 
+and leishmaniasis. The effect of temperature and rainfall change as well as 
+extreme events, were found to be the main cause for outbreaks and are alarming 
+the global community. Among the main driving factors, climate strongly 
+influences the geographical distribution of insect vectors, which is rapidly 
+changing due to climate change. Further, in both models and direct evidences, 
+climate change is seen to be affecting vector-borne diseases more strikingly in 
+fringe of different climatic areas often in the border of transmission zones, 
+which were once free of these diseases with human populations less immune and 
+more receptive. The impact of climate change is also more devastating because of 
+the unpreparedness of Public Health systems to provide adequate response to the 
+events, even when climatic warning is available. Although evidences are strong 
+at the regional and local levels, the studies on impact of climate change on 
+vector-borne diseases and health are producing contradictory results at the 
+global level.
+CONCLUSIONS: In this paper we discuss the current state of the results and draw 
+on evidences from malaria, dengue and other vector-borne diseases to illustrate 
+the state of current thinking and outline the need for further research to 
+inform our predictions and response.
+
+DOI: 10.1186/s40249-019-0565-1
+PMCID: PMC6567422
+PMID: 31196187 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+8. Environ Health. 2017 Dec 5;16(Suppl 1):112. doi: 10.1186/s12940-017-0326-1.
+
+Potential impact of climate change on emerging vector-borne and other infections 
+in the UK.
+
+Baylis M(1)(2).
+
+Author information:
+(1)Liverpool University Climate and Infectious Diseases of Animals group, 
+Institute of Infection and Global Health, University of Liverpool, Liverpool, 
+UK. matthew.baylis@liverpool.ac.uk.
+(2)Health Protection Research Unit in Emerging and Zoonotic Infections, 
+University of Liverpool, Liverpool, UK. matthew.baylis@liverpool.ac.uk.
+
+Climate is one of several causes of disease emergence. Although half or more of 
+infectious diseases are affected by climate it appears to be a relatively 
+infrequent cause of human disease emergence. Climate mostly affects diseases 
+caused by pathogens that spend part of their lifecycle outside of the host, 
+exposed to the environment. The most important routes of transmission of climate 
+sensitive diseases are by arthropod (insect and tick) vectors, in water and in 
+food. Given the sensitivity of many diseases to climate, it is very likely that 
+at least some will respond to future climate change. In the case of vector-borne 
+diseases this response will include spread to new areas. Several vector-borne 
+diseases have emerged in Europe in recent years; these include vivax malaria, 
+West Nile fever, dengue fever, Chikungunya fever, leishmaniasis, Lyme disease 
+and tick-borne encephalitis. The vectors of these diseases are mosquitoes, sand 
+flies and ticks. The UK has endemic mosquito species capable of transmitting 
+malaria and probably other pathogens, and ticks that transmit Lyme disease. The 
+UK is also threatened by invasive mosquito species known to be able to transmit 
+West Nile, dengue, chikungunya and Zika, and sand flies that spread 
+leishmaniasis. Warmer temperatures in the future will increase the suitability 
+of the UK's climate for these invasive species, and increase the risk that they 
+may spread disease. While much attention is on invasive species, it is important 
+to recognize the threat presented by native species too. Proposed actions to 
+reduce the future impact of emerging vector-borne diseases in the UK include 
+insect control activity at points of entry of vehicles and certain goods, wider 
+surveillance for mosquitoes and sand flies, research into the threat posed by 
+native species, increased awareness of the medical profession of the threat 
+posed by specific diseases, regular risk assessments, and increased preparedness 
+for the occurrence of a disease emergency.
+
+DOI: 10.1186/s12940-017-0326-1
+PMCID: PMC5773876
+PMID: 29219091 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: Not 
+applicable. CONSENT FOR PUBLICATION: Not applicable. COMPETING INTERESTS: The 
+authors declare that they have no competing interests. PUBLISHER’S NOTE: 
+Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.
+
+
+9. PLoS Negl Trop Dis. 2019 Mar 28;13(3):e0007213. doi: 
+10.1371/journal.pntd.0007213. eCollection 2019 Mar.
+
+Global expansion and redistribution of Aedes-borne virus transmission risk with 
+climate change.
+
+Ryan SJ(1)(2)(3), Carlson CJ(4)(5), Mordecai EA(6), Johnson LR(7).
+
+Author information:
+(1)Department of Geography, University of Florida, Gainesville, Florida, United 
+States of America.
+(2)Emerging Pathogens Institute, University of Florida, Gainesville, Florida, 
+United States of America.
+(3)School of Life Sciences, University of KwaZulu-Natal, Durban, South Africa.
+(4)Department of Biology, Georgetown University, Washington, DC, United States 
+of America.
+(5)National Socio-Environmental Synthesis Center, University of Maryland, 
+Annapolis, Maryland, United States of America.
+(6)Department of Biology, Stanford University, Stanford, California, United 
+States of America.
+(7)Department of Statistics, Virginia Polytechnic and State University, 
+Blacksburg, Virginia, United States of America.
+
+Forecasting the impacts of climate change on Aedes-borne viruses-especially 
+dengue, chikungunya, and Zika-is a key component of public health preparedness. 
+We apply an empirically parameterized model of viral transmission by the vectors 
+Aedes aegypti and Ae. albopictus, as a function of temperature, to predict 
+cumulative monthly global transmission risk in current climates, and compare 
+them with projected risk in 2050 and 2080 based on general circulation models 
+(GCMs). Our results show that if mosquito range shifts track optimal temperature 
+ranges for transmission (21.3-34.0°C for Ae. aegypti; 19.9-29.4°C for Ae. 
+albopictus), we can expect poleward shifts in Aedes-borne virus distributions. 
+However, the differing thermal niches of the two vectors produce different 
+patterns of shifts under climate change. More severe climate change scenarios 
+produce larger population exposures to transmission by Ae. aegypti, but not by 
+Ae. albopictus in the most extreme cases. Climate-driven risk of transmission 
+from both mosquitoes will increase substantially, even in the short term, for 
+most of Europe. In contrast, significant reductions in climate suitability are 
+expected for Ae. albopictus, most noticeably in southeast Asia and west Africa. 
+Within the next century, nearly a billion people are threatened with new 
+exposure to virus transmission by both Aedes spp. in the worst-case scenario. As 
+major net losses in year-round transmission risk are predicted for Ae. 
+albopictus, we project a global shift towards more seasonal risk across regions. 
+Many other complicating factors (like mosquito range limits and viral evolution) 
+exist, but overall our results indicate that while climate change will lead to 
+increased net and new exposures to Aedes-borne viruses, the most extreme 
+increases in Ae. albopictus transmission are predicted to occur at intermediate 
+climate change scenarios.
+
+DOI: 10.1371/journal.pntd.0007213
+PMCID: PMC6438455
+PMID: 30921321 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+10. Ann Clin Microbiol Antimicrob. 2017 Mar 7;16(1):10. doi: 
+10.1186/s12941-017-0185-1.
+
+Pandemics, pathogenicity and changing molecular epidemiology of cholera in the 
+era of global warming.
+
+Chowdhury FR(1)(2)(3), Nur Z(4), Hassan N(5), von Seidlein L(6), Dunachie 
+S(7)(8)(6).
+
+Author information:
+(1)Peter Medawar Building for Pathogen Research, University of Oxford, South 
+Parks Road, Oxford, OX1 3SY, UK. fazle.chowdhury@ndm.ox.ac.uk.
+(2)Centre for Tropical Medicine and Global Health, University of Oxford, Oxford, 
+UK. fazle.chowdhury@ndm.ox.ac.uk.
+(3)Health Directorate, Dhaka, Bangladesh. fazle.chowdhury@ndm.ox.ac.uk.
+(4)Yarrawonga Health and Yarrawonga Medical Centre, Yarrawonga, Victoria, 3730, 
+Australia.
+(5)Department of Pathology, Dhaka Community Medical College, Dhaka, Bangladesh.
+(6)Mahidol-Oxford Tropical Medicine Research Unit, Bangkok, Thailand.
+(7)Peter Medawar Building for Pathogen Research, University of Oxford, South 
+Parks Road, Oxford, OX1 3SY, UK.
+(8)Centre for Tropical Medicine and Global Health, University of Oxford, Oxford, 
+UK.
+
+BACKGROUND: Vibrio cholerae, a Gram-negative, non-spore forming curved rod is 
+found in diverse aquatic ecosystems around the planet. It is classified 
+according to its major surface antigen into around 206 serogroups, of which O1 
+and O139 cause epidemic cholera. A recent spatial modelling technique estimated 
+that around 2.86 million cholera cases occur globally every year, and of them 
+approximately 95,000 die. About 1.3 billion people are currently at risk of 
+infection from cholera. Meta-analysis and mathematical modelling have 
+demonstrated that due to global warming the burden of vector-borne diseases like 
+malaria, leishmaniasis, meningococcal meningitis, viral encephalitis, dengue and 
+chikungunya will increase in the coming years in the tropics and beyond.
+CHOLERA AND CLIMATE: This review offers an overview of the interplay between 
+global warming and the pathogenicity and epidemiology of V. cholerae. Several 
+distinctive features of cholera survival (optimal thriving at 15% salinity, 
+30 °C water temperature, and pH 8.5) indicate a possible role of climate change 
+in triggering the epidemic process. Genetic exchange (ctxAB, zot, ace, cep, and 
+orfU) between strains and transduction process allows potential emergence of new 
+toxigenic clones. These processes are probably controlled by precise 
+environmental signals such as optimum temperature, sunlight and osmotic 
+conditions. Environmental influences on phytoplankton growth and chitin 
+remineralization will be discussed alongside the interplay of poor sanitary 
+conditions, overcrowding, improper sewage disposal and global warming in 
+promoting the growth and transmission of this deadly disease.
+CONCLUSION: The development of an effective early warning system based on 
+climate data could help to prevent and control future outbreaks. It may become 
+possible to integrate real-time monitoring of oceanic regions, climate 
+variability and epidemiological and demographic population dynamics to predict 
+cholera outbreaks and support the design of cost-effective public health 
+strategies.
+
+DOI: 10.1186/s12941-017-0185-1
+PMCID: PMC5341193
+PMID: 28270154 [Indexed for MEDLINE]
